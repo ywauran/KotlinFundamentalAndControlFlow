@@ -1,4 +1,4 @@
-var name = "Yohanes"
+ var name = "Yohanes"
 val age = 16
 
 name = "Harke"

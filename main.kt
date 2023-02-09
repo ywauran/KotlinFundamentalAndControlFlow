@@ -1,5 +1,5 @@
 fun main() {
-   var sum = 100 + 50
-
-    println(sum)
+   for (i in  1..5) {
+        println(i)
+    }
 }
